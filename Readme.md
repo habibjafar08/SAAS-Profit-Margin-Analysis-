@@ -19,8 +19,11 @@ Strutur dari project analisis ini yaitu:
 
 ├── README.md <- Menampilkan latar belakang dan pernyataan masalah yang harus dijawab.
 |
+|
 ├── docs <- dokumen berisi presentasi dari dari hasil analisis.
 |
+|
 ├── Notebook <- berisi hasil analsis berbentuk file .ipynb .
+|
 |
 └── requirements.txt <- The requirements file untuk memproduksi analysis environment, e.g. generated with `pipreqs > requirements.txt`
