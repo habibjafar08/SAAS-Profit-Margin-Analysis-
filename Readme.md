@@ -8,6 +8,8 @@ perusahaan aws sedang melakukan evaluasi tahunan terhadap penjualan mereka, hal 
 ## Pernyataan masalah
 Perusahaan ingin mengetahui faktor apa saja yang menyebabkan penurunan profit perusahaan agar pada tahun selanjutnya perusaaan dapat memperbaiki permasalahan tersebut sehingga tidak terjadi lagi penurunan margin tersebut.
 
+## Link Notebook
+untuk melihat file jupyter notebook dengan grafik klik link berikut [Link](https://nbviewer.org/github/habibjafar08/SAAS-Profit-Margin-Analysis-/blob/main/Notebook/cap2.ipynb)
 ## Link Tableau
 Untuk melihat dashboard klik link berikut [link](https://public.tableau.com/app/profile/habib.jafar.nuur/viz/caps2final/Dashboard2?publish=yes).
 
